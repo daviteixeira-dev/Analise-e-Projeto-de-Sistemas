@@ -1,0 +1,65 @@
+Como usar os comandos.
+
+-> Adicionar um produto, escreva:
+
+Comando codigo descrição valor custo lucro quantidade
+
+Exemplo:
+
+Inserir 1 casa 20 30 40 50
+
+-> Comprar um produto:
+
+Comando codigo quantidade
+
+Exemplo:
+
+Comprar 1 3
+
+-> Vender um produto:
+
+Comando codigo quantidade
+
+Exemplo: 
+
+Vender 1 5
+
+-> Consultar um produto
+
+Comando codigo
+
+Exemplo:
+
+Consultar 1
+
+-> Listar produtos
+
+Comando
+
+Exemplo:
+
+Listar
+
+-> Alterar Valor de um Produto
+
+Comando codigo valor
+
+Exemplo:
+
+Alterar_Valor 1 200
+
+-> Alterar Custo de um Produto
+
+Comando codigo custo
+
+Exemplo: 
+
+Alterar_Custo 1 50
+
+-> Alterar Margem de Lucro de um produto
+
+Comando codigo lucro
+
+Exemplo:
+
+Alterar_Lucro 1 90
